@@ -1,0 +1,1 @@
+curl -d "action=record&uid=123&username=dcl&type=2&num=10000&level=0&c_hash=e9cebdefba233dd09a596b0b0d6fef69&userIDs=2171988&keys=037eae6c56e380f2c05c3a67bf579933&verify=8685786e6a6a376f7486269c868c5c30"  "http://video.88mf.com/newVideoPHP/growthsystest.php"
